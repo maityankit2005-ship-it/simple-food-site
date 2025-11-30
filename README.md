@@ -19,7 +19,7 @@ Food Delivery / Restaurant listing — responsive landing + menu + contact form.
 ## How to run
 1. Clone or download the folder.
 2. Open `index.html` in a browser (no server required).
-3. (Optional) Publish to GitHub Pages by pushing to a repo and enabling Pages.
+
 
 
 
